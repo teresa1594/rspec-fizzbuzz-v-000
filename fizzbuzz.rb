@@ -10,3 +10,5 @@ def fizzbuzz (int).to int
  elseif int % 5 == 0
   "Buzz"
  end
+ end
+ 
