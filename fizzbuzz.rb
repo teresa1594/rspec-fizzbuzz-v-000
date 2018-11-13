@@ -11,4 +11,3 @@ def fizzbuzz (int).to int
   "Buzz"
  end
  end
- 
